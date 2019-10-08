@@ -87,7 +87,7 @@ int main(int argc, char *argv[])					  //Sudoku.exe -m 9 -n 2 -i input.txt -o ou
 	  }
 	  ifs.close();
 	  ofs.close();
-	  system("pause");
+
 	  return 0;
 }
 
